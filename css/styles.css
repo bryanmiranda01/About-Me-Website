@@ -1,0 +1,54 @@
+/* CSS Document */
+
+ 
+
+/* table body content styles */
+.body-title {
+		padding-left: 30px;
+		font-size: 25px;
+		background-color: slateblue;
+		color: white;
+}
+		
+.body-contents {
+		padding-left: 10px !important;
+		padding-right: 10px !important;
+		font-size: 20px;
+		background-color: aliceblue;
+		color: black;
+		width: 50%;
+		word-wrap: normal;
+}
+
+.body-white-contents {
+		color: white;
+}
+
+.body-black-contents {
+		color: black;
+}
+
+.banner-main{
+			font-size: 40px;
+			background-color: slateblue !important;
+			color: white;			
+		}
+		
+		.banner-contents{
+			font-size: 25px;
+			width: 100%;
+			background-color: slateblue;
+		}
+		
+		a:link{
+			text-decoration: none;
+			color:white;
+		}
+		a:visited{
+			color: white;
+		}
+		
+		a:hover{
+			background-color: gold;
+			color: black;	
+		}
