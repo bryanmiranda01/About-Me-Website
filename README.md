@@ -11,9 +11,9 @@ of the website throughout the course of the semester.
 
 ### Project Features
 Details about the website
-• Hosted through the use of a combination of Nginx and Amazon Web Services
-• Front-end consists of HTML, CSS, JS, and React Boostrap
-• Back-end and database consists of PHP 
+- Hosted through the use of a combination of Nginx and Amazon Web Services
+- Front-end consists of HTML, CSS, JS, and React Boostrap
+- Back-end and database consists of PHP 
 
 #### Development tools:
 - [Adobe Dreamweaver](https://www.adobe.com/products/dreamweaver.html)
